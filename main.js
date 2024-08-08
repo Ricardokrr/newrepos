@@ -1,1 +1,1 @@
-vconsole.log("hello");
+const pair = "extraordinaire"
